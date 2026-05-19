@@ -112,7 +112,18 @@ Interactive docs at `http://localhost:8000/docs`
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
 ---
+
+## 📸 Screenshots
+
+### Swagger UI — Interactive Docs
+![Swagger UI](screenshots/Screenshot%202026-05-19%20at%2012.17.11.png)
+
+### API Response Example
+![API Response](screenshots/Screenshot%202026-05-19%20at%2012.17.20.png)
 
 ## 👤 Author
 
